@@ -1,4 +1,4 @@
-# GitRepository
+# WindowsXAMLHost Issue with Multiple Windows
 This demonstrates an issue with the WindowsXamlHost and multiple windows when using complex controls in the MainWindow.
 
 To reproduce the issue:
